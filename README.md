@@ -27,7 +27,7 @@
 ✔ **[Tic-Tac-Toe AI](https://github.com/YahyaQureshii/PRODIGY_WD_03)** - A Tic-Tac-Toe game with an AI opponent  
 
 ## 📫 Connect With Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YahyaQureshii)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yahyaqureshi004)  
 📧 Email: **yahya.qureshi004@gmail.com**  
 
 🚀 **Always open to exciting opportunities & collaborations!**  
